@@ -436,9 +436,16 @@ div#preload { display: none; }
   width: 1024px;
 }
 
-.form {
+.upper-button {
   position: absolute;
-  bottom: 30px;
+  bottom: 6.5em;
+  left: 0;
+  right: 0;
+}
+
+.submit-form {
+  position: absolute;
+  bottom: 2em;
   left: 0;
   right: 0;
 }
@@ -499,7 +506,7 @@ div#preload { display: none; }
   width: 40%;
   padding: 10px;
   opacity: 0.9;
-  font-size: 3em;
+  font-size: 2em;
   font-family: "Patua One", cursive;
 }
 
@@ -554,7 +561,7 @@ div#preload { display: none; }
   position: relative;
   margin: 3% auto 20px;
   width: 360px;
-  height: 60px;
+  height: 30px;
 }
 /* line 92, ../sass/screen.scss */
 .logo .logo-round {
