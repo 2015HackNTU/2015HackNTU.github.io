@@ -549,7 +549,7 @@ div#preload { display: none; }
   max-width: 800px;
   width: 80%;
   /*text-shadow: -4px 4px #000000;*/
-  text-align: center;
+  text-align: left;
   line-height: 2em;
   color: #FFFFFF;
 }
