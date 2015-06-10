@@ -438,14 +438,14 @@ div#preload { display: none; }
 
 .upper-button {
   position: absolute;
-  bottom: 6.5em;
+  bottom: 2em;
   left: 0;
   right: 0;
 }
 
 .submit-form {
   position: absolute;
-  bottom: 2em;
+  bottom: 6.5em;
   left: 0;
   right: 0;
 }
@@ -904,6 +904,7 @@ ul.arrow li {
   background: #3A7BE9;
   /*background-image: url(images/grey_wash_wall.png);*/
   color: #FFFFFF;
+  height: 750px;
 }
 /* line 423, ../sass/screen.scss */
 .hackathon .keyboard {
